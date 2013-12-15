@@ -1,0 +1,4 @@
+puppet
+======
+
+Puppetmaster test repo
